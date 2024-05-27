@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello! I am Senan Kassem
 🔭 I am currently a student at the University of Toronto, studying Cognitive science with minors in Computer Science and Psychology<br>🌱 I’m currently learning about Machine Learning algorithms and Deep Neural Networks<br>💬 Keen about the financial sector, particularly cryptocurrencies and blockchain technology
 
 
